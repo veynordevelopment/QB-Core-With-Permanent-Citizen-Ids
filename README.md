@@ -51,5 +51,5 @@ If you want more free releases and updates, **star the repo**.
 
 ## Credits
 
-Edited and cleaned for Passport ID usage.  
+Discord: veynordevelopment
 If you use it publicly, a star is appreciated.
